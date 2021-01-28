@@ -1,0 +1,4 @@
+version{job="prometheus-example-app"}
+httpRequestsTotal{job="prometheus-example-app"}
+httpRequestDuration{job="prometheus-example-app"}
+
