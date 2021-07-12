@@ -1,0 +1,2 @@
+kubectl port-forward prometheus-user-workload-1 9090
+

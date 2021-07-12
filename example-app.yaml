@@ -15,7 +15,7 @@ spec:
         app: prometheus-example-app
     spec:
       containers:
-      - image: quay.io/brancz/prometheus-example-app:v0.2.0
+      - image: quay.io/brancz/prometheus-example-app:v0.3.0
         imagePullPolicy: IfNotPresent
         name: prometheus-example-app
 ---
